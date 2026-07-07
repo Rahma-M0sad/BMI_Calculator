@@ -20,7 +20,7 @@ class _ResultPageState extends State<ResultPage> {
         centerTitle: true,
         backgroundColor: Color(0xffe73c66),
         title: Text(
-          "RESULT SCORE",
+          "Result Score",
           style: TextStyle(
             fontFamily: "font-Playwrite",
             fontSize: 20,
